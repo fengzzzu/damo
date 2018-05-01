@@ -1,7 +1,7 @@
 # damo
 一个脚手架，基于jdk1.7,spring-boot1.5.11,dubbo2.5.10
 
-交流QQ群：
+交流QQ群：106372751,476179533
 
 ## 前言
 
@@ -32,10 +32,6 @@ Redis | 分布式缓存数据库  | [https://redis.io/](https://redis.io/)
 Swagger2 | 接口测试框架  | [http://swagger.io/](http://swagger.io/)
 Jenkins | 持续集成工具  | [https://jenkins.io/index.html](https://jenkins.io/index.html)
 Maven | 项目构建管理  | [http://maven.apache.org/](http://maven.apache.org/)
-
-TBSchedule & elastic-job | 分布式调度框架  | [https://github.com/dangdangdotcom/elastic-job](https://github.com/dangdangdotcom/elastic-job)
-Quartz | 作业调度框架  | [http://www.quartz-scheduler.org/](http://www.quartz-scheduler.org/)
-
 
 
 项目编译  mvn clean install -DskipTests
