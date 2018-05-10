@@ -6,7 +6,7 @@
 
 1.运行 damo-service/damo-service-provider
 
-java -jar damo-service-consumer-1.0.0.jar
+java -jar damo-service-provider-1.0.0.jar
 
 2.运行 damo-service/damo-service-consumer
 
